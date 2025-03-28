@@ -14,5 +14,6 @@ Here are some of my LabVIEW projects:
 - [NI USRP2900 LABVIEW LAB5_DSBSC](https://github.com/aydebru/LabView_Lab5_DSBSC.git)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/aydogduebru) 
+- [LinkedIn](https://www.linkedin.com/in/aydogduebru)
 
+Feel free to explore my repositories! If you're interested in collaborating or have any questions, don't hesitate to reach out. Let's build something amazing together! 😊
