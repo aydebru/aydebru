@@ -8,7 +8,7 @@ I'm passionate about electro-optical systems, embedded systems, communication sy
 
 ## Projects
 
-### Image Processing HWs
+### Image Processing HWs in MATLAB
 Here are some of my image processing HWs:
 - [Image_Processing_HW1](https://github.com/aydebru/Image_Processing_HW1.git)
 - [Image_Processing_HW2](https://github.com/aydebru/Image_Processing_HW2.git)
