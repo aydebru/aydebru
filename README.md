@@ -19,6 +19,10 @@ Here are some of my LabVIEW projects:
 - [NI USRP2900 LABVIEW LAB2_AM](https://github.com/aydebru/LabView_Lab2_AM.git)
 - [NI USRP2900 LABVIEW LAB3_FDM](https://github.com/aydebru/LabView_Lab3_FDM.git)
 - [NI USRP2900 LABVIEW LAB5_DSBSC](https://github.com/aydebru/LabView_Lab5_DSBSC.git)
+- [NI USRP2900 LABVIEW LAB6_FM](https://github.com/aydebru/LabView_Lab6_FM.git )
+- [NI USRP2900 LABVIEW LAB7_ASK](https://github.com/aydebru/LabView_Lab7_ASK.git )
+- [NI USRP2900 LABVIEW LAB8_FSK](https://github.com/aydebru/LabView_Lab8_FSK.git)
+- [NI USRP2900 LABVIEW LAB9_PSK](https://github.com/aydebru/LabView_Lab9_PSK.git)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/aydogduebru)
