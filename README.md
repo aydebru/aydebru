@@ -24,6 +24,9 @@ Here are some of my LabVIEW projects:
 - [NI USRP2900 LABVIEW LAB8_FSK](https://github.com/aydebru/LabView_Lab8_FSK.git)
 - [NI USRP2900 LABVIEW LAB9_PSK](https://github.com/aydebru/LabView_Lab9_PSK.git)
 
+Here is my Telecommunication Capsule project called ASK-ANC based voice transmission system:
+- [Amplitude Shift Keyed (ASK) – Adaptive Noise Cancellation (ANC) Based Voice Transmission System](https://github.com/aydebru/Telecommunication_Project.git)
+
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/aydogduebru)
 
