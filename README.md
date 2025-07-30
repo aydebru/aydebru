@@ -1,4 +1,4 @@
-## Hello there! I'm Ebru Aydoğdu and I'm an Electrical & Electronics Engineering student. 
+## Hello there! I'm Ebru and I'm an Electrical & Electronics Engineering student. 
 
 ## About Me
 I'm passionate about electro-optical systems, embedded systems, communication systems, and analog design! I love turning ideas into reality by blending hardware and software. With experience in various programming languages and simulation/design tools, I'm always up for new challenges and innovative projects. Learning, experimenting, and creating—that's what keeps me going! 🚀
